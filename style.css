@@ -92,6 +92,7 @@ i:hover {
     padding: 10px 30px;
     letter-spacing: 2px;
     border: 1px solid #000;
+    border-radius: 20px;
 }
 
 .view_more_btn  input:hover {
@@ -252,7 +253,7 @@ i:hover {
     flex-direction: column;
 }
 
-.contact_form form input {
+.contact_form  input {
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 20px;
@@ -280,6 +281,7 @@ i:hover {
     color: rgb(0, 0, 0);
     text-transform: uppercase;
     letter-spacing: 2px;
+    border-radius: 20px;
     cursor: pointer;
     border: none;
 }
@@ -291,6 +293,7 @@ i:hover {
 .btn input {
     background: black;
     color: #fff;
+    border-radius: 20px;
 
     
 }
