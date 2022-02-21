@@ -245,6 +245,7 @@ i:hover {
 }
 
 .contact_us ul li {
+    list-style: none;
     text-transform: capitalize;
 }
 
